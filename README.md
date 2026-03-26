@@ -11,4 +11,7 @@ Integrantes del equipo:
 - Quispe Quispe Jhoel Julio
 
 Instrucciones para ejecutar el juego:
+
 Estado del proyecto: Idea (Desarrollar un SandBox RPG)
+
+
