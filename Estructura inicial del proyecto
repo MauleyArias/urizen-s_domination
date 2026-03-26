@@ -1,0 +1,33 @@
+
+Proyecto base: Unity 2D
+
+Organización inicial de carpetas:
+
+Urizens-Domination/
+│
+├── Assets/
+│   ├── Characters/
+│   ├── Enemies/
+│   ├── Weapons/
+│   ├── Items/
+│   ├── Tilesets/
+│   ├── UI/
+│   └── Audio/
+│
+├── Scenes/
+│   └── MainScene.unity
+│
+├── Scripts/
+│   ├── Player/
+│   ├── Enemy/
+│   ├── Combat/
+│   ├── Inventory/
+│   └── World/
+│
+├── Prefabs/
+│
+├── Materials/
+│
+├── README.md
+├── BITACORA.md
+└── .gitignore
