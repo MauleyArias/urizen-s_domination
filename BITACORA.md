@@ -8,6 +8,7 @@
 - Se agregó archivo LICENSE
 - Se creó README.md
 - Se subió estructura inicial del proyecto
+- Se creo la carpeta assetss
 
 ## [Siguiente sesión]
 
