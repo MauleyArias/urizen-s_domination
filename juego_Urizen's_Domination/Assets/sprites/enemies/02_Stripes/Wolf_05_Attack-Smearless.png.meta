@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 8fcd6bc461767d344a1c80bc0a0616de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1366940298740429624
+    second: Wolf_05_Attack-Smearless_0
+  - first:
+      213: -1280036853664198242
+    second: Wolf_05_Attack-Smearless_1
+  - first:
+      213: 7898568371530872909
+    second: Wolf_05_Attack-Smearless_2
+  - first:
+      213: 1866521108102029692
+    second: Wolf_05_Attack-Smearless_3
+  - first:
+      213: 4569567238572631821
+    second: Wolf_05_Attack-Smearless_4
+  - first:
+      213: -3941096527148227230
+    second: Wolf_05_Attack-Smearless_5
+  - first:
+      213: 8243708602248070387
+    second: Wolf_05_Attack-Smearless_6
+  - first:
+      213: -9056514365300320846
+    second: Wolf_05_Attack-Smearless_7
+  - first:
+      213: -4794972385708259711
+    second: Wolf_05_Attack-Smearless_8
+  - first:
+      213: -341902251330997353
+    second: Wolf_05_Attack-Smearless_9
+  - first:
+      213: -5725266877980139783
+    second: Wolf_05_Attack-Smearless_10
+  - first:
+      213: -8218814343754671257
+    second: Wolf_05_Attack-Smearless_11
+  - first:
+      213: 1534513001221386286
+    second: Wolf_05_Attack-Smearless_12
+  - first:
+      213: 3394921646126447638
+    second: Wolf_05_Attack-Smearless_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc09686a07a70de0800000000000000
+      internalID: -1366940298740429624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91dfe573456c3ee0800000000000000
+      internalID: -1280036853664198242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48bb33e51a5d9d60800000000000000
+      internalID: 7898568371530872909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71a03efe0737e910800000000000000
+      internalID: 1866521108102029692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076260613d5a6f30800000000000000
+      internalID: 4569567238572631821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265edc1e6996e49c0800000000000000
+      internalID: -3941096527148227230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f404d4fb49876270800000000000000
+      internalID: 8243708602248070387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 9
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b55d011b2cc05280800000000000000
+      internalID: -9056514365300320846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 6
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864d022506d47db0800000000000000
+      internalID: -4794972385708259711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 4
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7937281c6b1514bf0800000000000000
+      internalID: -341902251330997353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe1fa5bb14cb80b0800000000000000
+      internalID: -5725266877980139783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b1e9546e7e0fd80800000000000000
+      internalID: -8218814343754671257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f405c17fab4510800000000000000
+      internalID: 1534513001221386286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf_05_Attack-Smearless_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb6a5004f2d1f20800000000000000
+      internalID: 3394921646126447638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wolf_05_Attack-Smearless_0: -1366940298740429624
+      Wolf_05_Attack-Smearless_1: -1280036853664198242
+      Wolf_05_Attack-Smearless_10: -5725266877980139783
+      Wolf_05_Attack-Smearless_11: -8218814343754671257
+      Wolf_05_Attack-Smearless_12: 1534513001221386286
+      Wolf_05_Attack-Smearless_13: 3394921646126447638
+      Wolf_05_Attack-Smearless_2: 7898568371530872909
+      Wolf_05_Attack-Smearless_3: 1866521108102029692
+      Wolf_05_Attack-Smearless_4: 4569567238572631821
+      Wolf_05_Attack-Smearless_5: -3941096527148227230
+      Wolf_05_Attack-Smearless_6: 8243708602248070387
+      Wolf_05_Attack-Smearless_7: -9056514365300320846
+      Wolf_05_Attack-Smearless_8: -4794972385708259711
+      Wolf_05_Attack-Smearless_9: -341902251330997353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
